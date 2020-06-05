@@ -2,3 +2,14 @@
 	background: #ffc107;
 	color: white;
 }
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+/*Selecionar o link que está dentro do link e dentro do paragrafo*/
+
+footer p a{
+	margin: 5px 10px;
+}
